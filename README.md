@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">hey there bro, welcoe to my profile!!</p>
+<h2  align="left">hey there bro, welcome to my profile.</h2>
 
 ###
 
@@ -44,8 +44,6 @@
 
 ###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
-
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
@@ -56,16 +54,4 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/gianca/gianca/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gianca/gianca/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gianca/gianca/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gianca/gianca/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
